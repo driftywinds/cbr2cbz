@@ -12,7 +12,7 @@ A command-line tool to convert `.cbr` (Comic Book RAR) files to `.cbz` (Comic Bo
 
 ## Download
 
-Download the latest release for Windows from the [Releases](https://github.com/driftywinds/cbr2cbz/releases) page.
+Download the latest release for your platform from the [Releases](https://github.com/driftywinds/cbr2cbz/releases) page. I have only personally tested the Windows .exe file, but all the other should work in theory. Supported platforms are Windows, MacOS, Linux (amd64, arm64)
 
 ## Quick Start
 
