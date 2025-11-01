@@ -17,14 +17,14 @@ Download the latest release for your platform from the [Releases](https://github
 ## Quick Start
 
 ### Windows
-1. Download `cbr2cbz.exe` from [Releases](https://github.com/driftywinds/cbr2cbz/releases)
+1. Download `cbr2cbz.exe` from [Releases](https://github.com/driftywinds/cbr2cbz/releases) or compile it yourself
 2. Place it in the folder containing your `.cbr` files
 3. Double-click `cbr2cbz.exe` or run it from Command Prompt
 4. Follow the prompts
 
 ### Linux/macOS
 
-1. Compile the binary for your platform
+1. Download the binary from [Releases](https://github.com/driftywinds/cbr2cbz/releases) or compile it yourself
 2. Make it executable:
    ```chmod +x cbr2cbz-linux  # or cbr2cbz-macos```
 3. Place it in the folder with your `.cbr` files
